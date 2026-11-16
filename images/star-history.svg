@@ -16,8 +16,8 @@
 <line x1="70" y1="158.0" x2="770" y2="158.0" class="grid"/>
 <line x1="70" y1="94.0" x2="770" y2="94.0" class="grid"/>
 <line x1="70" y1="30.0" x2="770" y2="30.0" class="grid"/>
-<polygon points="70,350 70.0,286.0 77.0,222.0 678.0,158.0 770.0,94.0 770.0,350" class="ar"/>
-<polyline points="70.0,286.0 77.0,222.0 678.0,158.0 770.0,94.0" class="ln"/>
+<polygon points="70,350 70.0,286.0 74.9,222.0 490.5,158.0 554.2,94.0 770.0,30.0 770.0,350" class="ar"/>
+<polyline points="70.0,286.0 74.9,222.0 490.5,158.0 554.2,94.0 770.0,30.0" class="ln"/>
 <text x="60" y="354.0" class="lbl" text-anchor="end">0</text>
 <text x="60" y="290.0" class="lbl" text-anchor="end">1</text>
 <text x="60" y="226.0" class="lbl" text-anchor="end">2</text>
@@ -27,8 +27,8 @@
 <text x="70.0" y="372" class="lbl" text-anchor="middle">Jul 2026</text>
 <text x="245.0" y="372" class="lbl" text-anchor="middle">Aug 2026</text>
 <text x="420.0" y="372" class="lbl" text-anchor="middle">Sep 2026</text>
-<text x="595.0" y="372" class="lbl" text-anchor="middle">Sep 2026</text>
-<text x="770.0" y="372" class="lbl" text-anchor="middle">Oct 2026</text>
-<text x="70" y="20" class="ttl">codeztech-atique/500-AI-Agents-Projects &#183; 4 stars</text>
-<text x="770" y="20" class="lbl" text-anchor="end">updated 9 Nov 2026</text>
+<text x="595.0" y="372" class="lbl" text-anchor="middle">Oct 2026</text>
+<text x="770.0" y="372" class="lbl" text-anchor="middle">Nov 2026</text>
+<text x="70" y="20" class="ttl">codeztech-atique/500-AI-Agents-Projects &#183; 5 stars</text>
+<text x="770" y="20" class="lbl" text-anchor="end">updated 16 Nov 2026</text>
 </svg>
